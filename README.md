@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diogo Vinicius Kasteller!  
 
-- 🔭 Hoje eu trabalho com Gestão de Projetos de BI | Qlik
-- 🌱 Estudando HTML/CSS/Javascript/Qlik/SQL
+- 🔭 Atualmente sou Consultor de BI | Qlik
+- 🌱 Estudando HTML/CSS/Javascript/NodeJs para migrar para Programação Web
 
 <div align="center">
   <a href="https://github.com/DiogoKasteller">
