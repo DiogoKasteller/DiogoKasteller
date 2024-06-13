@@ -1,7 +1,8 @@
-## Olá! Eu sou o Diogo Vinicius Kasteller!  
+## Hello! I'm Diogo Vinicius Kasteller!  
 
-- 🔭 Atualmente sou Consultor de BI | Qlik
-- 🌱 Estudando HTML/CSS/Javascript/NodeJs para migrar para Programação Web
+- 🌱 Studying HTML/CSS/Javascript/NodeJs para migrar para Programação Web
+- 🎯 Looking forward to being a web developer
+- 🔭 Currently I'm a Business Intelligence Consultant | Qlik Sense
 
 <div align="center">
   <a href="https://github.com/DiogoKasteller">
