@@ -1,6 +1,6 @@
 ## Hello! I'm Diogo Vinicius Kasteller!  
 
-- 🌱 Studying HTML | CSS | Javascript | NodeJs
+- 🌱 Studying HTML | CSS | Javascript | React
 - 🎯 Looking forward to being a web developer
 - 🔭 Currently I'm a Business Intelligence Consultant | Qlik Sense
 
