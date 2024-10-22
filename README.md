@@ -2,7 +2,7 @@
 
 - 🌱 Studying HTML | CSS | Javascript | React
 - 🎯 Looking forward to being a web developer
-- 🔭 Currently I'm a Business Intelligence Consultant | Qlik Sense
+- 🔭 Currently I'm Open to Work
 
 <div align="center">
   <a href="https://github.com/DiogoKasteller">
